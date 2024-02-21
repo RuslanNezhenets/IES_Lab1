@@ -1,2 +1,4 @@
 .venv
 .idea
+docker/mosquitto/data
+docker/mosquitto/log
